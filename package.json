@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lowdash": "^1.2.0",
     "react": "^16.8.6"
   },
